@@ -94,7 +94,7 @@ $(document).ready(function()
 <div id="wb_Image4" style="position:absolute;left:638px;top:1979px;width:467px;height:267px;z-index:14;">
 <img src="images/4.JPG" id="Image4" alt=""></div>
 <div id="wb_Text6" style="position:absolute;left:152px;top:2299px;width:953px;height:87px;text-align:center;z-index:15;">
-<h3>Я летів приблизно 5 годин.<br>В Лісабоні мене зустрів папа , і ми поїхали в Сетубал до себе додому.<br>Ми зняли невелику квартирку зі всіма зручностями</h3></div>
+<h3>Я летів приблизно 4.5 годин.<br>В Лісабоні мене зустрів папа , і ми поїхали в Сетубал до себе додому.<br>Ми зняли невелику квартирку зі всіма зручностями</h3></div>
 <hr id="Line2" style="position:absolute;left:0px;top:2414px;width:1212px;z-index:16;">
 <div id="wb_Text7" style="position:absolute;left:152px;top:2566px;width:358px;height:232px;text-align:center;z-index:17;">
 <h3>На слідуючий день я з батьком пішли в місто.Батько мені розповідав про нього , я згадував деякі моменти з дитинства і все таке інше. Після прогулянки ми поїхали до родичів</h3></div>
